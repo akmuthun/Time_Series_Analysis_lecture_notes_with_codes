@@ -1,4 +1,4 @@
-# Time_Series_Analysis_lecture_notes_with_codes
+# Time Series Analysis lecture notes with codes
 Introduction to Time Series Analysis lecture notes based on the book R. Shumway, D. Stoffer - Time Series Analysis and Its Applications.
 
 Introduction to Time Series Analysis lecture notes based on the book R. Shumway, D. Stoffer - Time Series Analysis and Its Applications.
